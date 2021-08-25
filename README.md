@@ -15,8 +15,6 @@ The idea is to consolidate in a web page all my work expereience and knowledge.
 In this project I learned about CSS.
 As a beginer, it is really important for me to learn the bases of what a Web Page style must have.
 Also, it is really intresting how to create features such as:
-- The hamburger button.
-- How to display the menu with a click
 - How to link a URL to an image
 - How to define colors as variables
 - How to set the cursor evidencers just like an image increasing size when the cursor hovers over it.
